@@ -96,11 +96,11 @@ This is a practice project intended for learning and experimentation rather than
 # 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/spatie-laravel-roles-permissions.git
+git clone https://github.com/muhammadahmadhammad-dot/spatie-laravel-roles-and-permission.git
 ```
 
 ```bash
-cd spatie-laravel-roles-permissions
+cd spatie-laravel-roles-and-permission
 ```
 
 ```bash
